@@ -160,7 +160,7 @@ This project is a web-based contact management application that allows users to 
    ```
    npm run dev
    ```
-   The project will be accessible at: [Trainee Management](https://bouglacemarouane.github.io/Trainee-Management/)
+   The project will be accessible at: [Contact Management](https://bouglacemarouane.github.io/Contact-Management-Application/)
 
 ## ***🤝 Contribute :***
 
