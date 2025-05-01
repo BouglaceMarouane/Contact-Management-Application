@@ -87,49 +87,49 @@ This project is a web-based contact management application that allows users to 
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/d4f9a1ba2ddbc448f715490c586c424e1b434930/images/home.png" alt="image alt"/>
   <br>
-  <em>🏠 Home Page - The main page of the application where you can manage trainees.</em>
+  <em>🏠 Home Page - The main page of the application displaying the contact list and a search bar.</em>
 </p><br>
 
-### Form Display
+### Add Contact Form - Error
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/6cdd7099c65f424e858aa4f4b8c0310381f02128/images/add-error.png" alt="image alt" />
   <br>
-  <em>➕ Add Trainee - The form is displayed to input trainee details (name and grades).</em>
+  <em>⛔ Add Contact - The form shows an error message for invalid phone numbers.</em>
 </p><br>
 
-### Trainee List
+### Add Contact Form - Success
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/0207d103fe2c6614b81238f868670662d2dee75f/images/add-success.png" alt="image alt"/>
   <br>
-  <em>📋 Trainee List - The table shows the list of trainees with their grades, averages, and validation status.</em>
+  <em>✅ Add Contact - The form successfully validates the input and enables the 'Add' button.</em>
 </p><br>
 
-### Delete Trainee
+### Contact List with Search
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/d0a66898d4c7a1bd27bf6a3a36600921fa4e19e4/images/search.png" alt="image alt"/>
   <br>
-  <em>❌ Delete Trainee - A confirmation prompt is shown to remove a trainee from the list.</em>
+  <em>🔍 Search Contacts - The contact list is filtered dynamically based on the search term entered in the search bar.</em>
 </p><br>
 
-### Print Page
+### Contact Details
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/750b761bc8d99d7d0efe12d9498d0e8687912741/images/contact-details.png" alt="image alt"/>
   <br>
-  <em>🖨️ Print Page - The print preview of the trainee list is ready for printing.</em>
+  <em>📄 Contact Details - A modal displays detailed information about the selected contact.</em>
 </p><br>
 
-### JavaScript Data
+### Edit Contact Form
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/3b646f6caeab75dfdf420894b20b35bba9a6377a/images/edit.png" alt="image alt"/>
   <br>
-  <em>📄 JavaScript Data - The trainee data is displayed in JSON format for debugging or exporting.</em>
+  <em>✏️ Edit Contact - The form is pre-filled with the selected contact's details for editing.</em>
 </p><br>
 
-### JavaScript Data
+### Delete Confirmation
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/4ef324b3e6e89845cab5ccfb7b119c6754ea9415/images/delete-confirmation.png" alt="image alt"/>
   <br>
-  <em>📄 JavaScript Data - The trainee data is displayed in JSON format for debugging or exporting.</em>
+  <em>❌ Confirm Deletion - A modal prompts the user to confirm the deletion of a contact.</em>
 </p><br>
 
 
