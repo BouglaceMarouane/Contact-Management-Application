@@ -85,42 +85,49 @@ This project is a web-based contact management application that allows users to 
 
 ### Home Page
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/2bdb82f8231f1e152ee651f76e4042b0ab8b230d/images/home.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/d4f9a1ba2ddbc448f715490c586c424e1b434930/images/home.png" alt="image alt"/>
   <br>
   <em>🏠 Home Page - The main page of the application where you can manage trainees.</em>
 </p><br>
 
 ### Form Display
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/91efc072ab5fe111a5038efc4ca3ba2c7eab2e29/images/add.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/6cdd7099c65f424e858aa4f4b8c0310381f02128/images/add-error.png" alt="image alt" />
   <br>
   <em>➕ Add Trainee - The form is displayed to input trainee details (name and grades).</em>
 </p><br>
 
 ### Trainee List
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/794a22a6960947ff2820e81a71a0f4451fa93730/images/TABLE.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/0207d103fe2c6614b81238f868670662d2dee75f/images/add-success.png" alt="image alt"/>
   <br>
   <em>📋 Trainee List - The table shows the list of trainees with their grades, averages, and validation status.</em>
 </p><br>
 
 ### Delete Trainee
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/ad51d0ac97dc6bc8219d774e0cf521554f6f7605/images/DELETE.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/d0a66898d4c7a1bd27bf6a3a36600921fa4e19e4/images/search.png" alt="image alt"/>
   <br>
   <em>❌ Delete Trainee - A confirmation prompt is shown to remove a trainee from the list.</em>
 </p><br>
 
 ### Print Page
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/3ce63c11526748ce1b837da2717fd255c2c5e768/images/PRINT.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/750b761bc8d99d7d0efe12d9498d0e8687912741/images/contact-details.png" alt="image alt"/>
   <br>
   <em>🖨️ Print Page - The print preview of the trainee list is ready for printing.</em>
 </p><br>
 
 ### JavaScript Data
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/3ce63c11526748ce1b837da2717fd255c2c5e768/images/JSON.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/3b646f6caeab75dfdf420894b20b35bba9a6377a/images/edit.png" alt="image alt"/>
+  <br>
+  <em>📄 JavaScript Data - The trainee data is displayed in JSON format for debugging or exporting.</em>
+</p><br>
+
+### JavaScript Data
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Contact-Management-Application/blob/4ef324b3e6e89845cab5ccfb7b119c6754ea9415/images/delete-confirmation.png" alt="image alt"/>
   <br>
   <em>📄 JavaScript Data - The trainee data is displayed in JSON format for debugging or exporting.</em>
 </p><br>
