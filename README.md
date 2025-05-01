@@ -25,6 +25,7 @@ This project is a web-based contact management application that allows users to 
 ### ****3. Delete Contacts****
 
 - **Functionality:** Users can delete a contact with a confirmation prompt.
+
 - **Tools Used :**
   - **JavaScript:** *deleteContact(id)* function to show the confirmation modal and delete the contact.
   - **Bootstrap:** Modal for confirming deletion.
@@ -32,6 +33,7 @@ This project is a web-based contact management application that allows users to 
 ### ****4. Search Contacts****
 
 - **Functionality:** Users can search for contacts by name using a search bar.
+
 - **Tools Used :**
   - **JavaScript:** *renderContacts()* function to filter and display contacts based on the search term.
   - **HTML:** Search input field with an *oninput* event listener.
