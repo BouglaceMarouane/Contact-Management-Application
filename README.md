@@ -163,7 +163,7 @@ If you encounter issues or want to request a new feature, please open an issue i
 
 ## ***⭐ Support :***
 
-If you like this project, don't forget to leave a ⭐ on GitHub. Thank you and happy coding! 🚀
+If you find this project helpful, please consider giving it a ⭐ on GitHub — it really motivates me to keep improving and adding new features! Your support is truly appreciated! 🚀
 
 ## ***📬 Stay in Touch:***
 
