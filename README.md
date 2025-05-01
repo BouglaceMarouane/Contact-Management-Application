@@ -161,7 +161,7 @@ We welcome and appreciate all contributions! Whether you're fixing bugs, adding 
 
 To contribute:
 
-- Fork the repository and create your branch from main.
+- Fork the repository and create your branch from **main**.
 
 - Ensure your code follows the existing style and conventions.
 
