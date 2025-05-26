@@ -33,7 +33,6 @@
 
 
 
-
 ## ***✨ Project Description :***
 This project is a web-based contact management application that allows users to add, edit, delete, and search for contacts. It also provides a responsive design and uses local storage to persist data. The application is built using HTML, CSS, Bootstrap, and JavaScript.
 
